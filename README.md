@@ -3,6 +3,7 @@
 # Installation
 
 1. Install anaconda (use the Python 3 version): https://www.continuum.io/downloads
+2. See the Software-Carpentry Installations for `bash`, `git`, `python`, and `text editor`:   https://swcarpentry.github.io/workshop-template/#setup
 
 # Testing your installation
 
