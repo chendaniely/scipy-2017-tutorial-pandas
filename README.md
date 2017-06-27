@@ -12,7 +12,7 @@
 
 #### Windows/Mac
 
-There will be an Anaconda Launcher application that installs to your system.
+There will be an [Anaconda Navigator](https://docs.continuum.io/anaconda/navigator/) application that installs to your system.
 You can launch the Jupyter notebook from there to run your python code.
 
 #### Linux
