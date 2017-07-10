@@ -29,4 +29,8 @@ Click this and select `Python 3`.
 
 # Get Data
 
-1. Download or Clone the [Pandas for Everyone](https://github.com/chendaniely/pandas_for_everyone) repository.
+1. Download or Clone the this repository.
+    - Press the green button towards the top right
+    - click download zip
+    - extract
+    - celebrate
