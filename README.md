@@ -1,6 +1,6 @@
 # SciPy 2017 Pandas Tutorial
 
-Thanks for attending the tutorial.
+Thanks for attending the [tutorial](https://youtu.be/oGzU688xCUs).
 If you would be so kind to help me be better, please fill out the [feedback](https://docs.google.com/forms/u/0/d/e/1FAIpQLSf_hJ4akzTKIOEirxQAOE98ByD2zauXAW-ArNXX8ClNrNj9nQ/viewform?usp=sf_link) form
 
 # Installation
